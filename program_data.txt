@@ -1,0 +1,5 @@
+Remaining Burgers: 50
+Queue Sizes: 2 3 5
+Queue 1 Customers: hesara yasith 2 layanga heshani 1
+Queue 2 Customers: vihanga fernando 2 nethini perera 2 dulanya perera 2
+Queue 3 Customers: nigel jacob 4 dishni perera 4 oshadhi rajakaruna 2 hasani welagedara 4 hansi weerakoon 5
